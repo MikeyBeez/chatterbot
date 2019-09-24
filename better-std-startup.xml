@@ -3,6 +3,9 @@
 <!-- This is a comment in xml -->
 <!-- This category works with the Standard AIML Set rename this std-startup.xml -->
 <!-- std-startup is special.  It just has this load statement -->
+<!-- Also don't be confused by this better-std-startup.xml -->
+<!-- It does nothing in this project unless you rename it -->
+<!-- and delete the old std-startup.xml -->
 
 <category>
 <pattern>LOAD AIML B</pattern>
