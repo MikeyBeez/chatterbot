@@ -1,4 +1,4 @@
-category>
+<category>
     <pattern>ONE TIME I *</pattern>
     <template>
         <random>
