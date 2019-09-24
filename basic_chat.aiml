@@ -1,0 +1,18 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Howdy, Dipshit!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Who ARE YOU</pattern>
+        <template>
+            Does anyone ever really know?
+        </template>
+    </category>
+    
+</aiml>
