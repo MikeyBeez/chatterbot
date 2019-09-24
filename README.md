@@ -1,6 +1,6 @@
 # Chatterbot!  The simplest AIML-based bot.
 
-## I Built this on Ubuntu 19.04, but any linux should work
+## I Built this on Ubuntu 19.04, but any linux should work.  I got most of the info from this excellent article by NanaDano:  https://www.devdungeon.com/content/ai-chat-bot-python-aiml  
 
 ### Requires:
 * You can build this in a virtualenv with python 2.7
