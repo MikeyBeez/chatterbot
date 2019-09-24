@@ -17,3 +17,12 @@
 ### To run:
 * In the project directory, type python -m chatter.py
 * At the prompt say "hello"
+* At the prompt say "who are you"
+* Ctrl C to break
+
+### Next steps:
+* This simple example should help you understand a more difficult one.
+* rename std-startup.xml to first-std-startup.xml
+* rename better-std-startup.xml to std-startup.xml
+* In the project directory, type python -m chatter.py
+* Now you have a more sophisticated chatbot.
