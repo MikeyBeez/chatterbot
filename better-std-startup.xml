@@ -12,7 +12,7 @@
 <template>
 
 <!-- Load standard AIML set -->
-<learn>aiml/data/standard/std-*.aiml</learn>
+<learn>aiml/botdata/standard/std-*.aiml</learn>
 </template>
 </category>
 
