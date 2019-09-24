@@ -15,5 +15,5 @@
 * pip install aiml
 
 ### To run:
-* In the project directory, type python -m chatterbot.py
+* In the project directory, type python -m chatter.py
 * At the prompt say "hello"
