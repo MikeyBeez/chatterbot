@@ -1,0 +1,16 @@
+<aiml version="1.0">
+
+<!-- This is a comment in xml -->
+<!-- This category works with the Standard AIML Set rename this std-startup.xml -->
+<!-- std-startup is special.  It just has this load statement -->
+
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>aiml/data/standard/std-*.aiml</learn>
+</template>
+</category>
+
+</aiml>
